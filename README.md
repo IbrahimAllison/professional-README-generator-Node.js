@@ -20,10 +20,11 @@ MIT license was used for creating this repository.
 Starter code retrieved from: https://github.com/coding-boot-camp/potential-enigma
 Inquirer.js documentation from: https://www.npmjs.com/package/inquirer/v/8.2.4
 README Guide from: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-Inspiration and ideas from: https://github.com/njthanhtrang/9.-Node.js-Challenge-Professional-README-Generator/tree/main
-Instructional team.
+Inspiration and code from: https://github.com/njthanhtrang/9.-Node.js-Challenge-Professional-README-Generator/tree/main
+Assitance from instructional team.
+Markdown License badges links retrieved from: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba 
 
-Screenshots
+Link to the Professional README generator (MP4): https://drive.google.com/file/d/1Z2_VgvXgUd4DlGhcLFzKXRUGyTglmDO8/view?usp=sharing
 
 
 
