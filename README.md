@@ -13,7 +13,7 @@ It makes it easy for developers to understand your codes as well as enable them 
 The project is aimed at creating a professional README for a new project. The command-line application would accept users input and prompt the user to enter the requested information. After the user enters all the required information. The command-line application would display "Success! Great job! Check out your generatedREADME.md"
 
 **License**
-NIT license was used for this project.
+MIT license was used for creating this repository.
 
 **Credits/References**
 
